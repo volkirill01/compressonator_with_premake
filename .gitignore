@@ -7,6 +7,8 @@
 *.VC.db
 *.VC.VC.opendb
 *.vs
+*.vcxproj
+*.vcxproj.filters
 *.vscode
 *CMakeLists.txt.user
 *vcxproj.user
